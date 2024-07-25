@@ -1,6 +1,6 @@
 # powershell-add-reverselookup-ns
 
-# Add New Nameservers to Reverse Lookup Zones Script
+## Add New Nameservers to Reverse Lookup Zones Script
 
 This PowerShell script automates the process of adding new nameservers to all reverse lookup DNS zones on a DNS server. It checks if the nameservers already exist in each zone and adds them if they are not present.
 
